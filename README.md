@@ -19,7 +19,7 @@ This project performs sentiment analysis on customer reviews using Natural Langu
 ## Project Overview
 
 - **Objective**: Classify customer reviews as positive (4–5 stars) or negative (1–2 stars) based on their text content.
-- **Dataset**: Amazon Fine Food Reviews (~568,454 reviews, sampled to 100,000 for efficiency).
+- **Dataset**: Amazon Fine Food Reviews (~568,454 reviews, sampled to 20,000 for efficiency).
 - **Techniques**: Text preprocessing (stemming, stopword removal), TF-IDF vectorization, Logistic Regression.
 - **Visualization**: Bar chart of sentiment distribution (positive vs. negative reviews).
 - **Tools**: Python, Pandas, NLTK, Scikit-learn, Matplotlib.
@@ -79,13 +79,14 @@ The [Amazon Fine Food Reviews dataset](https://www.kaggle.com/datasets/snap/amaz
 ## Results
 
 - **Accuracy**: 
-  - Training: ~85–90% 
-  - Testing: ~80–85%.
+  - Training: 91.9% 
+  - Testing: 89.5%.
 - **Sentiment Distribution**: Typically ~80% positive, ~20% negative 
 - **Sample Prediction**: Correctly classifies reviews (e.g., "This product is amazing..." as Positive).
 
 ## Output Screenshots
 
+<img width="379" alt="Image" src="https://github.com/user-attachments/assets/4ecd3534-2dc2-4918-bd31-768216536cf7" />
 
 ## Acknowledgments
 
