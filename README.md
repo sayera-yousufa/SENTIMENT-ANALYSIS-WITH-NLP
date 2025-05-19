@@ -1,17 +1,3 @@
-# SENTIMENT-ANALYSIS-WITH-NLP
-
-*COMPANY*: CODTECH IT SOLUTIONS
-
-*NAME*: SAYERA YOUSUFA
-
-*INTERN ID*: CT04DK237
-
-*DOMAIN*: MACHINE LEARNING
-
-*DURATION*: 4 WEEKS
-
-*MENTOR*: NEELA SANTOSH
-
 # Customer Review Sentiment Analysis Using TF-IDF VECTORIZATION And LOGISTIC REGRESSION
 
 This project performs sentiment analysis on customer reviews using Natural Language Processing (NLP) techniques, adapted from a Twitter sentiment analysis pipeline. It classifies reviews as positive or negative using the Amazon Fine Food Reviews dataset from Kaggle. The project preprocesses text data, extracts features with TF-IDF, trains a Logistic Regression model, and visualizes sentiment distribution.
